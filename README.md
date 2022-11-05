@@ -58,4 +58,4 @@ https://github.com/trdiup
 | 40 | electron |  |  |
 
 ## 语雀
-地址：https://www.yuque.com/docs/share/7703d19f-7f32-4af6-9836-68fc3d98e88a?# 《Preface》
+地址：https://www.yuque.com/docs/share/7703d19f-7f32-4af6-9836-68fc3d98e88a?
