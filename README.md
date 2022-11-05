@@ -8,6 +8,7 @@
 ## Github
 
 github地址：
+https://github.com/trdiup
 ## Timeline
 :::info
 上课期间的代码任务需要及时完成并更新此文档中的仓库链接
@@ -56,3 +57,5 @@ github地址：
 | 39 | react native |  |  |
 | 40 | electron |  |  |
 
+##语雀
+地址：https://www.yuque.com/docs/share/7703d19f-7f32-4af6-9836-68fc3d98e88a?# 《Preface》
